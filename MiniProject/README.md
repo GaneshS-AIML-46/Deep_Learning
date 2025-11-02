@@ -1,6 +1,6 @@
 ## Black & White Image Colorization (OpenCV DNN)
 
-This project follows the TechVidvan tutorial to colorize grayscale images using OpenCV's DNN module and the Berkeley colorization model.
+This project is to  colorize grayscale images using OpenCV's DNN module and the Berkeley colorization model.
 
 ### 1) Create and activate a virtual environment (Windows PowerShell)
 ```powershell
